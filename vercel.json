@@ -1,5 +1,0 @@
-{
-  "buildCommand": "npm install --legacy-peer-deps && react-scripts build",
-  "outputDirectory": "build",
-  "rewrites": [{ "source": "/(.*)", "destination": "/index.html" }]
-}
