@@ -203,7 +203,7 @@ export function genWA(session, lists, sessionId) {
 export function Footer() {
   return (
     <div className="footer">
-      صافرة · نظام تسجيل التمارين 🟢<br />
+      صافرة · نظام تسجيل التمارين @🟢<br />
       <span style={{ fontSize: 9, opacity: 0.6 }}>Powered by Hamdan Alshebli</span>
     </div>
   );
