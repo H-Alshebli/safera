@@ -46,7 +46,7 @@ export default function SuperAdminPage() {
       <div className="app-wide">
         <div className="header" style={{ marginBottom: 16 }}>
           <div>
-            <div className="header-title">⚽ صافرة — Super Admin</div>
+            <div className="header-title">⚽👍 صافرة — Super Admin</div>
             <div className="header-sub">لوحة المراقبة والإحصائيات</div>
           </div>
         </div>
